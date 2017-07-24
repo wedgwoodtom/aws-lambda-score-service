@@ -1,0 +1,6 @@
+com/cts/ScoreService.class
+com/cts/ScoreHandler.class
+com/cts/Score.class
+com/cts/ScoreResponse.class
+com/cts/ScoreClient.class
+com/cts/ScoreRequest.class
